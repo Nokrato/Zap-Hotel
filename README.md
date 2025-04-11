@@ -1,6 +1,8 @@
 # Butterfly Emulator - ZapHotel.net Pack (R63A)
 
-![Logo](https://raw.githubusercontent.com/Nokrato/Zap-Hotel/refs/heads/main/assets/logo.png)
+
+![Pabbo Logo](https://raw.githubusercontent.com/Nokrato/Zap-Hotel/refs/heads/main/assets/pabbo.png)  
+![Logo](https://raw.githubusercontent.com/Nokrato/Zap-Hotel/refs/heads/main/assets/logo.gif)
 
 A classic **Butterfly Emulator** release from early 2013, originally used by **Zap Hotel** before moving on to an R63B build. This pack gives you everything you need for a fully working retro experience—capturing what Habbo Hotel was like around 2012/2013.
 
