@@ -39,7 +39,7 @@ I’m posting this out of my passion for retro Habbo and using this opportunity 
 ![Clean Loading Screen](https://raw.githubusercontent.com/Nokrato/Zap-Hotel/refs/heads/main/bin/Y1RXra4.png?token=GHSAT0AAAAAAC7XIRGSS56SD3XZZ3JKG6KSZ7ZBLEA)
 
 ### Index Page
-![Index Page](https://raw.githubusercontent.com/Nokrato/Zap-Hotel/refs/heads/main/bin/lhrKhid.png?token=GHSAT0AAAAAAC7XIRGSFVYEBN6JTOT5D6VGZ7ZBPEQ)
+![Index Page](https://raw.githubusercontent.com/Nokrato/Zap-Hotel/refs/heads/main/bin/lhrKhid.png)
 
 ---
 
