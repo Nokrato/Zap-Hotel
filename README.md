@@ -1,6 +1,6 @@
 # Butterfly Emulator - ZapHotel.net Pack (R63A)
 
-![Logo](https://raw.githubusercontent.com/Nokrato/Zap-Hotel/refs/heads/main/bin/SIwL22j.gif?token=GHSAT0AAAAAAC7XIRGTOEUJ4PIY4SW54H6WZ7ZBK6A)
+![Logo](https://raw.githubusercontent.com/Nokrato/Zap-Hotel/main/bin/SIwL22j.gif)
 
 A classic **Butterfly Emulator** release from early 2013, originally used by **Zap Hotel** before moving on to an R63B build. This pack gives you everything you need for a fully working retro experience—capturing what Habbo Hotel was like around 2012/2013.
 
@@ -30,16 +30,16 @@ I’m posting this out of my passion for retro Habbo and using this opportunity 
 ## Screenshots
 
 ### Hotel Inside
-![Hotel Inside](https://raw.githubusercontent.com/Nokrato/Zap-Hotel/refs/heads/main/bin/87BvYrp.png?token=GHSAT0AAAAAAC7XIRGSOXQWKJFUGKTC7CISZ7ZBKBA)
+![Hotel Inside](https://raw.githubusercontent.com/Nokrato/Zap-Hotel/main/bin/87BvYrp.png)
 
 ### Clean Main Screen
-![Clean Main Screen](https://raw.githubusercontent.com/Nokrato/Zap-Hotel/refs/heads/main/bin/RmRwznt.png?token=GHSAT0AAAAAAC7XIRGTJNGEB4X554JVPR7OZ7ZBKLA)
+![Clean Main Screen](https://raw.githubusercontent.com/Nokrato/Zap-Hotel/main/bin/RmRwznt.png)
 
 ### Clean Loading Screen
-![Clean Loading Screen](https://raw.githubusercontent.com/Nokrato/Zap-Hotel/refs/heads/main/bin/Y1RXra4.png?token=GHSAT0AAAAAAC7XIRGSS56SD3XZZ3JKG6KSZ7ZBLEA)
+![Clean Loading Screen](https://raw.githubusercontent.com/Nokrato/Zap-Hotel/main/bin/Y1RXra4.png)
 
 ### Index Page
-![Index Page](https://raw.githubusercontent.com/Nokrato/Zap-Hotel/refs/heads/main/bin/lhrKhid.png)
+![Index Page](https://raw.githubusercontent.com/Nokrato/Zap-Hotel/main/bin/lhrKhid.png)
 
 ---
 
